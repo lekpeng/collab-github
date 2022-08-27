@@ -1,0 +1,23 @@
+{
+  "name": "collab-github",
+  "version": "1.0.0",
+  "description": "read me Hello, Marcus here",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekpeng96/collab-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekpeng96/collab-github/issues"
+  },
+  "homepage": "https://github.com/lekpeng96/collab-github#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
